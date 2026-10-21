@@ -1,4 +1,4 @@
-# 복싱아카이브
+# 생복갤 아카이브
 
 생활복싱 마이너 갤러리의 **정보앨범 모음글에서 선정한 링크**를 검색하는 비공식 아카이브입니다.
 
@@ -18,7 +18,7 @@
 1. **Actions → Refresh information album → Run workflow**를 선택합니다.
 2. 완료 후 Summary의 비교 링크를 엽니다.
 3. 새 링크와 `needs-review` / `unavailable` 상태를 확인하고 PR을 만들어 병합합니다.
-4. 사이트를 다시 배포하면 화면에 반영됩니다. GitHub 병합 자체로 Sites가 자동 배포되지는 않습니다.
+4. Vercel에 연결된 `main`에 병합하면 운영 사이트가 자동으로 다시 배포됩니다.
 
 실행 권한은 GitHub 저장소의 쓰기 권한이 있는 운영자에게 있습니다. 별도 관리자 비밀번호나 Google Sheets 인증키는 필요하지 않습니다.
 
@@ -39,12 +39,12 @@ python -m unittest discover -s tests -p test_album.py
 
 ## 개발과 배포
 
-React 19 / TypeScript / Next.js App Router 호환 Vinext / Vite 기반이며 Sites의 Cloudflare Workers 환경에 배포합니다. 현재 데이터는 빌드 시 JSON에서 읽으며 데이터베이스를 사용하지 않습니다.
+React 19 / TypeScript / Next.js App Router 기반이며 Vercel에 배포합니다. 현재 데이터는 빌드 시 JSON에서 읽으며 데이터베이스나 ChatGPT 로그인을 사용하지 않습니다.
 
 ```sh
 npm ci
-npx vinext dev
-npx vinext build
+npm run dev
+npm run build
 ```
 
 Windows PowerShell에서는 `npm.cmd`, `npx.cmd`를 사용할 수 있습니다. `npm run dev`, `npm run build`, `npm test`도 지원합니다.
@@ -53,6 +53,8 @@ Windows PowerShell에서는 `npm.cmd`, `npx.cmd`를 사용할 수 있습니다. 
 - `app/globals.css`, `app/album.css`: 반응형 스타일
 - `scripts/collect_album.py`: 수동 수집기
 - `.github/workflows/refresh-album.yml`: 수동 실행 워크플로
-- `.openai/hosting.json`: 기존 Sites 프로젝트 설정
+- `vercel.json`: Vercel 프레임워크 설정
+- `data/brands.json`: 브랜드명·제품명 표기 규칙
+- `data/brand-reviews.json`: 원문 본문 검토로 보완한 브랜드 분류
 
-브랜치에서 수정 → 빌드 및 수집기 테스트 → PR 검토 → 병합 → Sites 재배포 순서로 진행합니다. API 키나 서비스 계정 파일은 커밋하지 않습니다.
+브랜치에서 수정 → Vercel 미리보기 확인 → PR 검토 → `main` 병합 → Vercel 자동 운영 배포 순서로 진행합니다. API 키나 서비스 계정 파일은 커밋하지 않습니다. 기존 Sites 배포는 이전 버전으로 남아 있으며 이 브랜치에서 더 이상 갱신하지 않습니다.
