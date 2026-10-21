@@ -29,7 +29,7 @@ export default function Home() {
   ), [category, query, collection, brand]);
   function reset() { setCategory("전체"); setQuery(""); setCollection(""); setBrand(""); }
   return <main>
-    <header className="topbar"><a className="brand" href="#top"><span className="mark">B</span><span>복싱아카이브</span></a><nav><a href="#guides">정보앨범</a><a href={gallery} target="_blank" rel="noopener noreferrer">원문 갤러리 ↗</a></nav></header>
+    <header className="topbar"><a className="brand" href="#top"><span className="mark">B</span><span>생복갤 아카이브</span></a><nav><a href="#guides">정보앨범</a><a href={gallery} target="_blank" rel="noopener noreferrer">원문 갤러리 ↗</a></nav></header>
     <section className="hero" id="top">
       <div className="eyebrow"><span>●</span> 생활복싱 마이너 갤러리 큐레이션</div>
       <h1>생복갤 정보 조회하기</h1>
@@ -47,6 +47,6 @@ export default function Home() {
       </article>)}</div>
       {!filtered.length && <div className="empty">검색 결과가 없습니다. 다른 단어로 찾아보세요.</div>}
     </section>
-    <footer><a className="brand" href="#top"><span className="mark">B</span><span>복싱아카이브</span></a><p>Keep your hands up. Keep learning.</p><small>© 2026 BOXING ARCHIVE</small></footer>
+    <footer><a className="brand" href="#top"><span className="mark">B</span><span>생복갤 아카이브</span></a><p>Keep your hands up. Keep learning.</p><small>© 2026 BOXING ARCHIVE</small></footer>
   </main>;
 }
