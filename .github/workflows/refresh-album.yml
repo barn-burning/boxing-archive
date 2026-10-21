@@ -1,0 +1,36 @@
+name: Refresh information album
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: album-refresh
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -p test_album.py
+      - run: python scripts/collect_album.py
+      - name: Save changes on a review branch
+        env:
+          RUN_ID: ${{ github.run_id }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          if git diff --quiet -- data/album.json; then
+            echo 'No changes.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          branch="codex/album-refresh-$RUN_ID"
+          git switch -c "$branch"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/album.json
+          git commit -m 'Refresh curated DC album links'
+          git push origin "$branch"
+          echo "Review collected links: https://github.com/$REPOSITORY/compare/main...$branch" >> "$GITHUB_STEP_SUMMARY"

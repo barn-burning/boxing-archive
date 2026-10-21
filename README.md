@@ -1,100 +1,58 @@
-# vinext-starter
+# 복싱아카이브
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+생활복싱 마이너 갤러리의 **정보앨범 모음글에서 선정한 링크**를 검색하는 비공식 아카이브입니다.
 
-## Prerequisites
+- 제목·카테고리·수록 모음집 검색
+- 장비 / 꿀팁 / 치료·재활 / 만화 필터
+- 모음집별 필터 및 개별 DC 원문 바로가기
+- 중복 없는 게시물 번호, 출처 모음글, 마지막 수동 갱신일 표시
 
-- Node.js `>=22.13.0`
+## 콘텐츠 관리
 
-## Quick Start
+운영자는 기존 DC 모음글에 링크를 추가합니다. 정기 수집은 없으며 필요할 때만 갱신합니다. 방문자 요청으로 DC를 호출하지 않으므로 사이트 조회 트래픽이 수집 요청을 늘리지 않습니다.
 
-```bash
-npm install
-npm run dev
-npm run build
+### GitHub에서 수동 갱신
+
+이 워크플로가 기본 브랜치에 반영된 후:
+
+1. **Actions → Refresh information album → Run workflow**를 선택합니다.
+2. 완료 후 Summary의 비교 링크를 엽니다.
+3. 새 링크와 `needs-review` / `unavailable` 상태를 확인하고 PR을 만들어 병합합니다.
+4. 사이트를 다시 배포하면 화면에 반영됩니다. GitHub 병합 자체로 Sites가 자동 배포되지는 않습니다.
+
+실행 권한은 GitHub 저장소의 쓰기 권한이 있는 운영자에게 있습니다. 별도 관리자 비밀번호나 Google Sheets 인증키는 필요하지 않습니다.
+
+### 로컬 갱신
+
+Node.js 22.13 이상과 Python 3.12 이상을 사용합니다. 수집기는 Python 표준 라이브러리만 사용합니다.
+
+```sh
+python scripts/collect_album.py
+python -m unittest discover -s tests -p test_album.py
 ```
 
-This starter does not use `wrangler.jsonc`.
+결과는 `data/album.json`에 저장됩니다. 모음글 본문의 생활복싱(`bx`) 게시물 링크만 가져오고 광고·댓글·하단 게시판 목록은 제외합니다. 모바일·PC 주소를 게시물 번호로 통일합니다. 모음글·꿀팁 각 편·번역 시리즈만 최대 3단계로 확장하며 일반 사용기에 있는 다른 링크는 따라가지 않습니다.
 
-## Included Shape
+새 글은 원문 제목을 확인합니다. 기존에 확인한 제목은 재사용합니다. 열리지 않는 새 글은 `unavailable`로 기록하며 공개 목록에서 제외합니다. 모음글 수집이 실패하면 기존 데이터 파일을 교체하지 않습니다. 목차에서 사라진 링크는 삭제하지 않고 `needs-review`로 남깁니다. 본문·댓글·이미지는 복제하지 않습니다.
 
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
+`collections`는 수집한 목차와 링크 해시, `posts`는 제목·URL·분류·상위 목차·상태를 담습니다. `changes`에는 이번 실행에서 발견한 추가·확인 필요 항목이 기록됩니다. 이 날짜는 원문 작성일이 아니라 수집 확인일입니다.
 
-## Workspace Auth Headers
+## 개발과 배포
 
-Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonymous visitors, for whom neither header is present.
+React 19 / TypeScript / Next.js App Router 호환 Vinext / Vite 기반이며 Sites의 Cloudflare Workers 환경에 배포합니다. 현재 데이터는 빌드 시 JSON에서 읽으며 데이터베이스를 사용하지 않습니다.
 
-The user ID is stable for the same user on the same Site and different across Sites. Email and name are intended for display or contact purposes.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const userId = requestHeaders.get("oai-authenticated-user-id");
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```sh
+npm ci
+npx vinext dev
+npx vinext build
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+Windows PowerShell에서는 `npm.cmd`, `npx.cmd`를 사용할 수 있습니다. `npm run dev`, `npm run build`, `npm test`도 지원합니다.
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+- `app/page.tsx`: 검색·필터·앨범 화면
+- `app/globals.css`, `app/album.css`: 반응형 스타일
+- `scripts/collect_album.py`: 수동 수집기
+- `.github/workflows/refresh-album.yml`: 수동 실행 워크플로
+- `.openai/hosting.json`: 기존 Sites 프로젝트 설정
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
-
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
-
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
-
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
-
-## Useful Commands
-
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
-
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+브랜치에서 수정 → 빌드 및 수집기 테스트 → PR 검토 → 병합 → Sites 재배포 순서로 진행합니다. API 키나 서비스 계정 파일은 커밋하지 않습니다.
