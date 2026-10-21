@@ -2,15 +2,16 @@
 import { useMemo, useState } from "react";
 import album from "../data/album.json";
 import brandDefinitions from "../data/brands.json";
+import brandReviews from "../data/brand-reviews.json";
 import "./album.css";
 
 const gallery = "https://gall.dcinside.com/mgallery/board/lists/?id=bx";
 const categories = ["전체", "장비", "꿀팁", "치료·재활", "만화"];
 const activePosts = album.posts.filter(p => p.status === "active").map(p => ({
   ...p,
-  brands: p.categories.includes("장비") && p.kind !== "collection"
+  brands: (brandReviews as Record<string, { brands: string[] }>)[p.id]?.brands ?? (p.categories.includes("장비") && p.kind !== "collection"
     ? brandDefinitions.filter(b => b.aliases.some(alias => p.title.toLowerCase().includes(alias.toLowerCase()))).map(b => b.name)
-    : [],
+    : []),
 }));
 const brandCounts = new Map<string, number>();
 activePosts.forEach(p => p.brands.forEach(b => brandCounts.set(b, (brandCounts.get(b) ?? 0) + 1)));

@@ -29,5 +29,9 @@
   { "name": "파이팅", "aliases": ["파이팅", "fighting sports"] },
   { "name": "본투윈", "aliases": ["본투윈", "born to win"] },
   { "name": "케나인", "aliases": ["케나인"] },
-  { "name": "그랜트", "aliases": ["그랜트", "grant"] }
+  { "name": "그랜트", "aliases": ["그랜트", "grant"] },
+  { "name": "뉴스포팅", "aliases": ["뉴스포팅", "new sporting"] },
+  { "name": "럭키카키", "aliases": ["럭키카키", "lucky khaki"] },
+  { "name": "헤비히터", "aliases": ["헤비히터", "heavy hitters"] },
+  { "name": "B2F", "aliases": ["b2f"] }
 ]
