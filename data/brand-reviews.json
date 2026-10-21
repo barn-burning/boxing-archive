@@ -1,0 +1,17 @@
+{
+  "21038": { "brands": ["위닝", "타이틀"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "본문의 위닝 가품 구별 안내와 타이틀 젤 월드 예시를 확인.", "source": "body" },
+  "22349": { "brands": ["미즈노", "아식스", "베넘"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "본문 사이즈·무게 목록의 미즈노 피니셔, 아식스 매트플렉스·매트컨트롤, 베넘 엘리트·컨텐더를 확인.", "source": "body" },
+  "20799": { "brands": ["아디다스", "나이키", "리복", "위닝", "이사미", "베넘", "헤비히터", "노바", "힛앤무브", "트윈스"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "매장별 취급 브랜드 및 쇼룸 설명에서 확인한 브랜드. 특정 제품 사용기가 아닌 여러 브랜드의 매장 안내.", "source": "body" },
+  "14523": { "brands": ["위닝", "피넘"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "본문에서 위닝과 피넘 헤드기어의 고정력을 비교.", "source": "body" },
+  "4197": { "brands": ["피넘"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "사용기 대상이 피넘 SHG-250이라고 명시됨. 위닝은 크기·비교 대상으로만 언급.", "source": "body" },
+  "3454": { "brands": [], "checkedAt": "2026-10-21", "status": "insufficient", "basis": "이전에 사용한 장비가 이사미라는 언급만 있음. 새로 구입한 헤드기어 브랜드는 본문 텍스트로 확인 불가.", "source": "body" },
+  "22661": { "brands": [], "checkedAt": "2026-10-21", "status": "insufficient", "basis": "발아치 보조기 사용·환불 경험만 있고 제조사나 제품명 없음.", "source": "body" },
+  "25411": { "brands": ["위닝", "라이벌", "위싱", "가미", "B2F"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "스파링 글러브 패딩·무게배분·보호력 비교에서 다섯 브랜드를 명시.", "source": "body" },
+  "12121": { "brands": ["타이틀", "뉴스포팅", "럭키카키"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "실제 리뷰 대상은 타이틀 프로파이트 10온스, 뉴스포팅 HGP 14온스, 럭키카키 16온스. 비유로만 나온 위닝·그랜트는 제외.", "source": "body" },
+  "25107": { "brands": ["타이틀"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "새로 구매한 제품을 타이틀 케이오버트 흰색이라고 명시. 노바·라이벌은 비교 대상으로만 등장.", "source": "body" },
+  "21674": { "brands": [], "checkedAt": "2026-10-21", "status": "insufficient", "basis": "배송·사이즈·착용감 설명만 있고 본문 텍스트에 브랜드명·모델명 없음.", "source": "body" },
+  "16963": { "brands": [], "checkedAt": "2026-10-21", "status": "insufficient", "basis": "운동일지와 복싱화 착용·사이즈 질문이며 본문 텍스트로 브랜드 확인 불가.", "source": "body" },
+  "30124": { "brands": ["에버라스트"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "리뷰 대상이 에버라스트 엘리트2라고 명시. 나이키 하이퍼 KO1은 비교 예시.", "source": "body" },
+  "17696": { "brands": ["아식스"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "본문 첫 부분에서 아식스 매트컨트롤3라고 명시하고 두 달 사용기를 서술.", "source": "body" },
+  "19651": { "brands": ["복스로우"], "checkedAt": "2026-10-21", "status": "confirmed", "basis": "리뷰 대상은 복스로우 임펠로 나카타니 준토 에디션. 미즈노·나이키 등은 비유·비교 언급.", "source": "body" }
+}

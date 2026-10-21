@@ -42,3 +42,5 @@ next-env.d.ts
 /work/
 
 /.pnpm-store/
+__pycache__/
+*.pyc
