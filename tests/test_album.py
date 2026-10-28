@@ -5,6 +5,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from collect_album import Document, post_id, is_collection_link
 
 class AlbumTests(unittest.TestCase):
+    def test_shop_directory_is_a_reviewed_index(self):
+        self.assertTrue(is_collection_link('오프라인 매장 정리 (2026.1.29 수정)', '20799'))
+        self.assertFalse(is_collection_link('골든챔스 방문기 n번째', '21609'))
+        self.assertFalse(is_collection_link('노우르 매장 방문', '30324'))
+        self.assertFalse(is_collection_link('복린이 도쿄가서 이사미 복서 사옴', '7077'))
     def test_cartoon_series_are_collections(self):
         self.assertTrue(is_collection_link('유니스트 복서, 유복의 만화 시리즈'))
         self.assertTrue(is_collection_link('봉냥씨의 만화일기 시리즈'))
