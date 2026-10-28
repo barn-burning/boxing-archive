@@ -14,6 +14,9 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 LIST_URL = 'https://gall.dcinside.com/mgallery/board/lists/?id=bx&sort_type=N&search_head=60&page=1'
 SEEDS = {'25291': '장비', '25823': '꿀팁', '25292': '치료·재활', '25735': '만화'}
+# Reviewed topic indexes, not every article whose title happens to say "꿀팁".
+TIP_INDEX_IDS = {'25809', '25810', '25820', '25821', '25822', '25824',
+                 '25812', '25813', '25814', '25816', '25817', '25818'}
 
 def post_id(url):
     u = urlparse(url)
@@ -27,6 +30,9 @@ def post_id(url):
 
 def canonical(pid):
     return f'https://gall.dcinside.com/mgallery/board/view/?id=bx&no={pid}'
+
+def is_collection_link(title, pid=None):
+    return pid in TIP_INDEX_IDS or bool(re.search(r'모음|꿀팁.*편|번역 시리즈|만화(?:일기)? 시리즈', title))
 
 class Document(HTMLParser):
     def __init__(self):
@@ -130,7 +136,7 @@ def collect(output, delay):
                 if child == pid:
                     continue
                 text = link['title']
-                is_collection = bool(re.search(r'모음|꿀팁.*편|번역 시리즈', text))
+                is_collection = is_collection_link(text, child)
                 p = posts.setdefault(child, {'id': child, 'title': text, 'url': canonical(child), 'categories': [], 'collections': [],
                                             'kind': 'collection' if is_collection else 'article', 'firstSeenAt': old.get(child, {}).get('firstSeenAt', now)})
                 if category not in p['categories']:
