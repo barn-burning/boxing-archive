@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:31:47+00:00",
+  "updatedAt": "2026-10-28T04:51:46+00:00",
   "sourceUrl": "https://gall.dcinside.com/mgallery/board/lists/?id=bx&sort_type=N&search_head=60&page=1",
   "collections": [
     {
@@ -7,7 +7,7 @@
       "title": "♒ 생복이들 장비 사용기 모음집",
       "category": "장비",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25291",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "884f4643e09f4a28da8915e6fe20c1163af020198252ccd5240bf37628d4d71d"
     },
     {
@@ -15,7 +15,7 @@
       "title": "✅ 생복이들을 위한 꿀팁 모음집",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25823",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "13075423f51e7885b298c82cb4bc7150af90b84ccca6367deffb0300b859cd7e"
     },
     {
@@ -23,7 +23,7 @@
       "title": "♿ 환자 생복이들을 위한 치료와 재활 모음집",
       "category": "치료·재활",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25292",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "3e3f42a0e9b439abad31d24c816586c41f7b90272ad063a031ab87a968d4efc2"
     },
     {
@@ -31,7 +31,7 @@
       "title": "✍ 카툰 생복이들의 만화 모음집",
       "category": "만화",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25735",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "f13436e78b619c50f9609bb44a558a5119246e05a9a3fdb53988f7c9a3ea6070"
     },
     {
@@ -39,7 +39,7 @@
       "title": "장비 사용기 모음집 <헤드기어,기타>",
       "category": "장비",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=22941",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "57f321cb3293a7577952481b586a348003ed3a701d67404b54308edd6da6ff29"
     },
     {
@@ -47,7 +47,7 @@
       "title": "글러브 사용기 모음집 <A ~ M>",
       "category": "장비",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=42382",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "20da839fdbb3d78a1344e069b48b3e5e245ca2ee31d158d46b95f2ea31ad4abd"
     },
     {
@@ -55,7 +55,7 @@
       "title": "글러브 사용기 모음집 < N~Z >",
       "category": "장비",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=20798",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "f83797897ec21f154ffee383c7b48a9e5d73d5330ec7ba0ad4f261d39ada2496"
     },
     {
@@ -63,15 +63,23 @@
       "title": "장비 사용기 모음집 <복싱화 편>",
       "category": "장비",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=21980",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "b4f5da5644518581d71f7a630d25dc304f77ec610b03d8c642e8f8edf6bfc3b9"
+    },
+    {
+      "id": "20799",
+      "title": "오프라인 매장 정리 (2026.1.29 수정)",
+      "category": "장비",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=20799",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
+      "linkHash": "54d885ef4fc9b20cfb22ec740b0a582142559642d98f9a8e85a9c2a63682c3ab"
     },
     {
       "id": "25811",
       "title": "생복이들을 위한 꿀팁 [기본편]",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25811",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "4bdd3766fe6dd0155f5240fda83b592b761a4edebbad4b615428cf9a84953189"
     },
     {
@@ -79,7 +87,7 @@
       "title": "생복이들을 위한 꿀팁 [훈련편]",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25815",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "fd7596971d7fe697554467d6487294ffb44c22756d6efa7958b704ed379f3e2c"
     },
     {
@@ -87,7 +95,7 @@
       "title": "생복이들을 위한 꿀팁 [실전편]",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25819",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "c7739782c55c2ee7c8b3667d41cfd66095210ea1cefe27e3145f64119166b537"
     },
     {
@@ -95,7 +103,7 @@
       "title": "nirvana_jm님의 교보재 번역 시리즈",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=26489",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "096c729c8ffd68654e64b559fb768ed9b7c9501e90f70dc3d07eef9fefc83c14"
     },
     {
@@ -103,7 +111,7 @@
       "title": "부상과 재활 모음집 (2026.1.27 수정 )",
       "category": "치료·재활",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=20801",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "75fe5f22575fff0a9e9390ee1f9672da0ba14fe26aa90d07f61663d72e3c835d"
     },
     {
@@ -111,7 +119,7 @@
       "title": "유니스트 복서, 유복의 만화 시리즈",
       "category": "만화",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25733",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "9b4a8ac3def6251df47b3d245c54a0ebeb198854cb1396532a5b2c2b35bf63f7"
     },
     {
@@ -119,7 +127,7 @@
       "title": "봉냥씨의 만화일기 시리즈",
       "category": "만화",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=33088",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "f6abba911d8b87182a58444fbff10541b3e2fec0ac6be9efd1c4109d8dfe510c"
     },
     {
@@ -127,7 +135,7 @@
       "title": "생복이들을 위한 꿀팁 - 로드웍 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25809",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "9a1341a03660b540ea0d92e5dd7615e859d1ec5a1bcda7521adfa4684e622103"
     },
     {
@@ -135,7 +143,7 @@
       "title": "생복이들을 위한 꿀팁 - 피지컬 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25810",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "ed2fa634299fd35fa15e2dd69629ef4281f45ad968449326da26fd44cfb6fe8c"
     },
     {
@@ -143,7 +151,7 @@
       "title": "생복이들을 위한 꿀팁 - 스트레칭 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25820",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "e2eb32ffa1b7d0c23b62dfbe0e8e695cdbb174e1530d652be330700580e194b0"
     },
     {
@@ -151,7 +159,7 @@
       "title": "생복이들을 위한 꿀팁 - 용어 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25821",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     {
@@ -159,7 +167,7 @@
       "title": "생복이들을 위한 꿀팁 - 체육관 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25822",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "a1c3e49d852c6b342d41fd8d7b3aa45e4628cc243014cf0a856c62d7ddebc633"
     },
     {
@@ -167,7 +175,7 @@
       "title": "생복이들을 위한 꿀팁 - 대회 및 자격증 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25824",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "66e152f5877259e7d8a3e3987d643ab837a68dab4df1d8cf4254fa4775de0405"
     },
     {
@@ -175,7 +183,7 @@
       "title": "생복이들을 위한 꿀팁 - 펀치 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25812",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "9c32de25b721a6063bcf4e8d89fb53080dc0ed0c04390ff58d8c34f635c52794"
     },
     {
@@ -183,7 +191,7 @@
       "title": "생복이들을 위한 꿀팁 - 스텝 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25813",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "8a2de6fb62783e36e15c412699398ee29e0a4afe5a7ab97ff1aa4dad8035b06b"
     },
     {
@@ -191,7 +199,7 @@
       "title": "생복이들을 위한 꿀팁 - 리듬 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25814",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "36654e36b34fabe8eb2e5d74a5402defeb4b54e1f19b5582f7ed25ef3c368331"
     },
     {
@@ -199,7 +207,7 @@
       "title": "생복이들을 위한 꿀팁 - 쉐도우 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25816",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "60de9b74696ec387d8eb17a17cc8553ea136bd1e82842ce95a8938d2179c2846"
     },
     {
@@ -207,7 +215,7 @@
       "title": "생복이들을 위한 꿀팁 - 샌드백 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25817",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "82e14e5922a18087faa5a44efa3d4bf2087306a6ac698c80825f7a0aa1e1eedd"
     },
     {
@@ -215,7 +223,7 @@
       "title": "생복이들을 위한 꿀팁 - 스파링 -",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=25818",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "687fc05df25442c13726ac3f1001b1e8df97eafc2d2060c52d8c080cd4641e3c"
     },
     {
@@ -223,7 +231,7 @@
       "title": "폭발력에 도움이 되는 간단한 플라이오매트릭 모음",
       "category": "꿀팁",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=32331",
-      "checkedAt": "2026-10-28T04:31:47+00:00",
+      "checkedAt": "2026-10-28T04:51:46+00:00",
       "linkHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     }
   ],
@@ -240,7 +248,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -256,7 +264,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -272,7 +280,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -288,7 +296,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -304,7 +312,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -320,7 +328,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -334,9 +342,9 @@
       "collections": [
         "25291"
       ],
-      "kind": "article",
+      "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -352,7 +360,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -368,7 +376,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -383,7 +391,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -399,7 +407,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -415,7 +423,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -431,7 +439,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -447,7 +455,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -463,7 +471,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -479,7 +487,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -495,7 +503,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -511,7 +519,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -527,7 +535,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -543,7 +551,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -559,7 +567,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -575,7 +583,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -591,7 +599,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -607,7 +615,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -623,7 +631,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -639,7 +647,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -655,7 +663,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -671,7 +679,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -687,7 +695,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -703,7 +711,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -719,7 +727,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -735,7 +743,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -751,7 +759,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -767,7 +775,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -783,7 +791,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -799,7 +807,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -815,7 +823,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -831,7 +839,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -847,7 +855,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -863,7 +871,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -879,7 +887,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -895,7 +903,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -911,7 +919,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -927,7 +935,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -943,7 +951,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -959,7 +967,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -975,7 +983,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -991,7 +999,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1007,7 +1015,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1023,7 +1031,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1039,7 +1047,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1055,7 +1063,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1071,7 +1079,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1087,7 +1095,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1103,7 +1111,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1119,7 +1127,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1135,7 +1143,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1151,7 +1159,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1167,7 +1175,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1183,7 +1191,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1199,7 +1207,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1215,7 +1223,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1231,7 +1239,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1247,7 +1255,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1263,7 +1271,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:22:04+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1280,7 +1288,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1297,7 +1305,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1313,7 +1321,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1329,7 +1337,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1344,7 +1352,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1360,7 +1368,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1376,7 +1384,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1391,7 +1399,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1406,7 +1414,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1422,7 +1430,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1438,7 +1446,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1454,7 +1462,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1469,7 +1477,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1485,7 +1493,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1501,7 +1509,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1517,7 +1525,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1533,7 +1541,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1549,7 +1557,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1565,7 +1573,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1581,7 +1589,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1597,7 +1605,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1613,7 +1621,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1629,7 +1637,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1645,7 +1653,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1661,7 +1669,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1677,7 +1685,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1693,7 +1701,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1709,7 +1717,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1725,7 +1733,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1740,7 +1748,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1756,7 +1764,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1772,7 +1780,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1788,7 +1796,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1804,7 +1812,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1820,7 +1828,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1836,7 +1844,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1852,7 +1860,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -1867,7 +1875,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1883,7 +1891,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1899,7 +1907,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1915,7 +1923,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1931,7 +1939,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1947,7 +1955,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1963,7 +1971,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1979,7 +1987,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -1995,7 +2003,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2011,7 +2019,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2027,7 +2035,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2043,7 +2051,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2059,7 +2067,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2075,7 +2083,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2091,7 +2099,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2107,7 +2115,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2123,7 +2131,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2139,7 +2147,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2155,7 +2163,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2171,7 +2179,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2187,7 +2195,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2203,7 +2211,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2219,7 +2227,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2235,7 +2243,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2251,7 +2259,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2267,7 +2275,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2283,7 +2291,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2299,7 +2307,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2315,7 +2323,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2331,7 +2339,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -2346,7 +2354,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2362,7 +2370,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:22:04+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2378,7 +2386,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2394,7 +2402,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2410,7 +2418,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2426,7 +2434,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2442,7 +2450,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2458,7 +2466,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2474,7 +2482,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2490,7 +2498,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2506,7 +2514,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2522,7 +2530,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2538,7 +2546,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2554,7 +2562,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2570,7 +2578,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -2585,7 +2593,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -2600,7 +2608,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2616,7 +2624,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2632,7 +2640,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2648,7 +2656,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2664,7 +2672,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2680,7 +2688,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2696,7 +2704,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2712,7 +2720,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2728,7 +2736,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2744,7 +2752,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2760,7 +2768,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:22:04+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2776,7 +2784,55 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
+      "status": "active",
+      "titleVerified": true
+    },
+    {
+      "id": "21609",
+      "title": "골든챔스 방문기 n번째",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=21609",
+      "categories": [
+        "장비"
+      ],
+      "collections": [
+        "20799"
+      ],
+      "kind": "article",
+      "firstSeenAt": "2026-10-28T04:51:46+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
+      "status": "active",
+      "titleVerified": true
+    },
+    {
+      "id": "30324",
+      "title": "노우르 매장 방문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=30324",
+      "categories": [
+        "장비"
+      ],
+      "collections": [
+        "20799"
+      ],
+      "kind": "article",
+      "firstSeenAt": "2026-10-28T04:51:46+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
+      "status": "active",
+      "titleVerified": true
+    },
+    {
+      "id": "7077",
+      "title": "복린이 도쿄가서 이사미 복서 사옴",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=7077",
+      "categories": [
+        "장비"
+      ],
+      "collections": [
+        "20799"
+      ],
+      "kind": "article",
+      "firstSeenAt": "2026-10-28T04:51:46+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2792,7 +2848,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2808,7 +2864,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2824,7 +2880,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2840,7 +2896,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2856,7 +2912,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2872,7 +2928,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2888,7 +2944,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2904,7 +2960,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2920,7 +2976,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2936,7 +2992,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2952,7 +3008,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2968,7 +3024,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -2984,7 +3040,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3000,7 +3056,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3016,7 +3072,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3032,7 +3088,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3048,7 +3104,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3064,7 +3120,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3080,7 +3136,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3096,7 +3152,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3112,7 +3168,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3128,7 +3184,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3144,7 +3200,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3160,7 +3216,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3176,7 +3232,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3192,7 +3248,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3208,7 +3264,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:20:49+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3224,7 +3280,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3240,7 +3296,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3256,7 +3312,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3272,7 +3328,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3288,7 +3344,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3304,7 +3360,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-21T07:19:16+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3320,7 +3376,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3336,7 +3392,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3352,7 +3408,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3368,7 +3424,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3384,7 +3440,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3400,7 +3456,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3416,7 +3472,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3432,7 +3488,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3448,7 +3504,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3464,7 +3520,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3480,7 +3536,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3496,7 +3552,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3512,7 +3568,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3528,7 +3584,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3544,7 +3600,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3560,7 +3616,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3576,7 +3632,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3592,7 +3648,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3608,7 +3664,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3624,7 +3680,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3640,7 +3696,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3656,7 +3712,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3672,7 +3728,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3688,7 +3744,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3704,7 +3760,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3720,7 +3776,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3736,7 +3792,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3752,7 +3808,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3768,7 +3824,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3784,7 +3840,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3800,7 +3856,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3816,7 +3872,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3832,7 +3888,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3848,7 +3904,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3864,7 +3920,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3880,7 +3936,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3896,7 +3952,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3912,7 +3968,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3928,7 +3984,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3944,7 +4000,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3960,7 +4016,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3976,7 +4032,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -3992,7 +4048,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4008,7 +4064,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4024,7 +4080,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4040,7 +4096,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4056,7 +4112,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4072,7 +4128,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4088,7 +4144,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4104,7 +4160,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4120,7 +4176,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4136,7 +4192,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4152,7 +4208,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4168,7 +4224,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4184,7 +4240,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4200,7 +4256,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4216,7 +4272,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4232,7 +4288,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4248,7 +4304,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4264,7 +4320,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4280,7 +4336,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4296,7 +4352,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4312,7 +4368,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4328,7 +4384,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4344,7 +4400,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4360,7 +4416,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4376,7 +4432,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4392,7 +4448,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4408,7 +4464,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4424,7 +4480,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:26:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4440,7 +4496,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4456,7 +4512,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4472,7 +4528,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4488,7 +4544,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4504,7 +4560,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4519,7 +4575,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4534,7 +4590,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4549,7 +4605,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4564,7 +4620,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4580,7 +4636,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4595,7 +4651,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4610,7 +4666,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4625,7 +4681,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4640,7 +4696,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4655,7 +4711,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4671,7 +4727,7 @@
       ],
       "kind": "collection",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4687,7 +4743,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4703,7 +4759,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4719,7 +4775,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4735,7 +4791,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4751,7 +4807,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4766,7 +4822,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4781,7 +4837,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4797,7 +4853,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4813,7 +4869,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4829,7 +4885,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4845,7 +4901,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4861,7 +4917,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4877,7 +4933,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4893,7 +4949,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4909,7 +4965,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4925,7 +4981,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -4940,7 +4996,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4956,7 +5012,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4972,7 +5028,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -4988,7 +5044,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5004,7 +5060,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5020,7 +5076,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5035,7 +5091,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5050,7 +5106,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5065,7 +5121,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5080,7 +5136,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5096,7 +5152,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5112,7 +5168,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5128,7 +5184,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5144,7 +5200,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5160,7 +5216,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5176,7 +5232,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5192,7 +5248,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5208,7 +5264,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5224,7 +5280,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5240,7 +5296,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5256,7 +5312,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5271,7 +5327,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5287,7 +5343,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5303,7 +5359,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5319,7 +5375,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5335,7 +5391,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5350,7 +5406,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5365,7 +5421,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5380,7 +5436,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5396,7 +5452,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5412,7 +5468,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5428,7 +5484,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5443,7 +5499,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5458,7 +5514,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5474,7 +5530,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5490,7 +5546,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5506,7 +5562,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5522,7 +5578,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5538,7 +5594,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5554,7 +5610,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5570,7 +5626,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5586,7 +5642,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5602,7 +5658,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5617,7 +5673,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5632,7 +5688,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5647,7 +5703,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5662,7 +5718,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5677,7 +5733,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5692,7 +5748,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5707,7 +5763,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5722,7 +5778,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5737,7 +5793,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5752,7 +5808,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5767,7 +5823,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -5782,7 +5838,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5798,7 +5854,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5814,7 +5870,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5830,7 +5886,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5846,13 +5902,13 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
     {
       "id": "9124",
-      "title": "고닉 단기념으로 스파링강도에 대한 고찰(유머아님) - 생활복싱 마이너 갤러리",
+      "title": "고닉 단기념으로 스파링강도에 대한 고찰(유머아님)",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=bx&no=9124",
       "categories": [
         "꿀팁"
@@ -5862,8 +5918,9 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
-      "status": "unavailable"
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
+      "status": "active",
+      "titleVerified": true
     },
     {
       "id": "452",
@@ -5877,7 +5934,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5893,7 +5950,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5909,7 +5966,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5925,7 +5982,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5941,7 +5998,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5957,7 +6014,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5973,7 +6030,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -5989,7 +6046,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6005,7 +6062,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6021,7 +6078,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6037,7 +6094,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6053,7 +6110,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6069,7 +6126,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6085,7 +6142,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6101,7 +6158,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6117,7 +6174,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6133,7 +6190,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6149,7 +6206,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6165,7 +6222,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6181,7 +6238,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6197,7 +6254,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6213,7 +6270,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6229,7 +6286,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6245,7 +6302,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6261,7 +6318,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6277,7 +6334,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6293,7 +6350,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6309,7 +6366,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "active",
       "titleVerified": true
     },
@@ -6325,7 +6382,7 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     },
     {
@@ -6340,134 +6397,15 @@
       ],
       "kind": "article",
       "firstSeenAt": "2026-10-28T04:31:47+00:00",
-      "lastSeenAt": "2026-10-28T04:31:47+00:00",
+      "lastSeenAt": "2026-10-28T04:51:46+00:00",
       "status": "unavailable"
     }
   ],
   "changes": {
     "added": [
-      "10006",
-      "10459",
-      "10554",
-      "10767",
-      "10786",
-      "108",
-      "11737",
-      "11857",
-      "12444",
-      "13852",
-      "14655",
-      "14685",
-      "14778",
-      "15228",
-      "15649",
-      "16237",
-      "17297",
-      "17476",
-      "18326",
-      "18505",
-      "18643",
-      "1876",
-      "19776",
-      "20808",
-      "20843",
-      "21064",
-      "21174",
-      "21256",
-      "21634",
-      "21670",
-      "21746",
-      "22052",
-      "22486",
-      "227",
-      "22786",
-      "22821",
-      "22866",
-      "23075",
-      "23443",
-      "23896",
-      "24186",
-      "2424",
-      "24524",
-      "24688",
-      "24957",
-      "24963",
-      "25005",
-      "25131",
-      "25667",
-      "25696",
-      "25736",
-      "25946",
-      "26014",
-      "26027",
-      "26060",
-      "26157",
-      "26683",
-      "30284",
-      "30717",
-      "31578",
-      "31770",
-      "32076",
-      "32328",
-      "32331",
-      "32585",
-      "32798",
-      "32965",
-      "33424",
-      "33437",
-      "34990",
-      "35482",
-      "36177",
-      "37217",
-      "38535",
-      "38613",
-      "38616",
-      "38842",
-      "39544",
-      "39822",
-      "40111",
-      "40421",
-      "40626",
-      "40827",
-      "41078",
-      "42711",
-      "42772",
-      "42806",
-      "4317",
-      "4436",
-      "452",
-      "4562",
-      "46957",
-      "4781",
-      "4935",
-      "5019",
-      "5021",
-      "5080",
-      "5148",
-      "5281",
-      "5878",
-      "6226",
-      "6387",
-      "6561",
-      "6642",
-      "6764",
-      "6766",
-      "6878",
-      "6907",
-      "697",
-      "73",
-      "7373",
-      "7395",
-      "7440",
-      "7471",
-      "7571",
-      "7689",
-      "8066",
-      "8608",
-      "9091",
-      "9124",
-      "9224",
-      "9795"
+      "21609",
+      "30324",
+      "7077"
     ],
     "needsReview": [],
     "unavailable": [
@@ -6515,7 +6453,6 @@
       "32965",
       "31770",
       "42806",
-      "9124",
       "38613",
       "38616"
     ]

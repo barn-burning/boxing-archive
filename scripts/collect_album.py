@@ -17,6 +17,8 @@ SEEDS = {'25291': '장비', '25823': '꿀팁', '25292': '치료·재활', '25735
 # Reviewed topic indexes, not every article whose title happens to say "꿀팁".
 TIP_INDEX_IDS = {'25809', '25810', '25820', '25821', '25822', '25824',
                  '25812', '25813', '25814', '25816', '25817', '25818'}
+# Audited store directory explicitly curates three shop-visit reports.
+EQUIPMENT_INDEX_IDS = {'20799'}
 
 def post_id(url):
     u = urlparse(url)
@@ -32,7 +34,7 @@ def canonical(pid):
     return f'https://gall.dcinside.com/mgallery/board/view/?id=bx&no={pid}'
 
 def is_collection_link(title, pid=None):
-    return pid in TIP_INDEX_IDS or bool(re.search(r'모음|꿀팁.*편|번역 시리즈|만화(?:일기)? 시리즈', title))
+    return pid in TIP_INDEX_IDS | EQUIPMENT_INDEX_IDS or bool(re.search(r'모음|꿀팁.*편|번역 시리즈|만화(?:일기)? 시리즈', title))
 
 class Document(HTMLParser):
     def __init__(self):
